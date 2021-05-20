@@ -2,12 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>MyTrip</groupId>
-  <artifactId>MyTripProject</artifactId>
+  <groupId>GoogleNews</groupId>
+  <artifactId>GoogleNewsProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>MyTripProject</name>
+  <name>GoogleNewsProject</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -22,15 +22,7 @@
       <scope>test</scope>
     </dependency>
     
-    <dependency>
-    <groupId>org.testng</groupId>
-    <artifactId>testng</artifactId>
-    <version>7.0.0</version>
-    <scope>test</scope>
-</dependency>
     
-        
-
 <dependency>
     <groupId>org.kohsuke</groupId>
     <artifactId>github-api</artifactId>
@@ -50,7 +42,7 @@
     <artifactId>poi-ooxml</artifactId>
     <version>4.1.2</version>
 </dependency>
-
+    
     
   </dependencies>
 </project>
